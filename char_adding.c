@@ -25,7 +25,6 @@ int main(int argc, char * argv[])
     int ss = strlen(s)-1;
     int st = strlen(t)-1;
     char j = 0;
-    char res = '0';
     while(1)
     {
         j = addop(s[ss],t[st],j,t+st);
