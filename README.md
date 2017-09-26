@@ -1,3 +1,2 @@
-# hello-world
-simplecode
-This is just a test!
+char_adding.c 计算连个字符串格式的非负整数相加，例如‘123’ + ‘4321’ ，结果是‘4444‘
+
